@@ -1,16 +1,16 @@
-# app4
+<h1 align="center" id="title">The Mango Farm</h1>
 
-A new Flutter project.
+<p align="center"><img src="https://i.postimg.cc/5tBvMzYf/Whats-App-Image-2024-07-05-at-10-22-16-e1b3372b.jpg" alt="project-image"></p>
 
-## Getting Started
+<p id="description">MERN Stack E -Commerce Platform With Full Functionality</p>
 
-This project is a starting point for a Flutter application.
+<h2>Project Screenshots:</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://i.postimg.cc/d0PdX60W/Whats-App-Image-2024-07-05-at-10-22-15-7d0e04fe.jpg" alt="project-screenshot" width="600" height="600/">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://i.postimg.cc/wvFm1dQP/Whats-App-Image-2024-07-05-at-10-22-16-0994fa59.jpg" alt="project-screenshot" width="600" height="600/">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://i.postimg.cc/vTNxvLjt/Whats-App-Image-2024-07-05-at-10-22-16-44e1b605.jpg" alt="project-screenshot" width="600" height="600/">
+
+<img src="https://i.postimg.cc/9Mc9XfZZ/Whats-App-Image-2024-07-05-at-10-27-23-eec2f38a.jpg" alt="project-screenshot" width="600" height="600/">
+
