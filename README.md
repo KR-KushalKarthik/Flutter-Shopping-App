@@ -17,4 +17,6 @@
 
 ![App Screenshot](https://i.postimg.cc/wjb4dR4b/Screenshot-2024-07-15-102547.png) ![App Screenshot](https://i.postimg.cc/SKBZnFh6/Screenshot-2024-07-15-102601.png)
 
-![App Screenshot](https://i.postimg.cc/SKBZnFh6/Screenshot-2024-07-15-102601.png)
+![App Screenshot](https://i.postimg.cc/SKBZnFh6/Screenshot-2024-07-15-102601.png) ![App Screenshot](https://i.postimg.cc/QxCRz0wG/Screenshot-2024-07-15-121258.png)
+
+![App Screenshot](https://i.postimg.cc/JzBSrtRp/Screenshot-2024-07-15-121322.png)
